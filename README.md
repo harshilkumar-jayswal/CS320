@@ -17,6 +17,9 @@ I made sure to explain my coding approach in the documentation. I explained my t
 
 ## Credits
 Developing by Harshilkumar Jayswal
+
 Professor Albanie Bolton
+
 Module 8-2 Portfolio Journal 
+
 CS-320 Software Test Automation & QA @ SNHU
